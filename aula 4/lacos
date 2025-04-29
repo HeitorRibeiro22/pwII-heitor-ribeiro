@@ -1,0 +1,14 @@
+
+<?php  
+$contador = 1;
+
+do {
+  echo $contador;
+  $contador++;
+} while ($contador < 12); {
+    echo $contador, "br";
+    $contador++;
+}
+?>
+
+
